@@ -1,0 +1,67 @@
+{
+    "folders": [
+        {
+            "name": "Root",
+            "path": "../"
+        },
+        {
+            "name": "packages/foobar-package",
+            "path": "../packages/foobar-package"
+        },
+        {
+            "name": "packages/shared-models",
+            "path": "../packages/shared-models"
+        },
+        {
+            "name": "packages/shared-types",
+            "path": "../packages/shared-types"
+        },
+        {
+            "name": "packages/shared-utils",
+            "path": "../packages/shared-utils"
+        },
+        {
+            "name": "Auth Service",
+            "path": "../services/auth"
+        },
+        {
+            "name": "services/foobar-service",
+            "path": "../services/foobar-service"
+        },
+        {
+            "name": "Gateway",
+            "path": "../services/gateway"
+        },
+        {
+            "name": "Matching Engine",
+            "path": "../services/matching-engine"
+        },
+        {
+            "name": "User API Service",
+            "path": "../services/user-api"
+        },
+        {
+            "name": "Web UI",
+            "path": "../services/web-ui"
+        },
+        {
+            "name": "Order Update Service",
+            "path": "../services/order-update",
+        },
+        {
+            "name": "Order Placement/Cancellation Service",
+            "path": "../services/order-manager"
+        },
+        {
+            "name": "Stock Price Service",
+            "path": "../services/stock-price"
+        }
+    ],
+    "settings": {
+        "files.exclude": {
+            "node_modules/": true,
+            "packages/": true,
+            "services/": true,
+        },
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "seng468-day-trading",
+  "type": "module",
+  "workspaces": [
+    "packages/*",
+    "services/foobar-service",
+    "services/user-api",
+    "services/web-ui",
+    "services/order-manager",
+    "services/auth",
+    "services/order-update"
+  ],
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
