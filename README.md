@@ -1,4 +1,4 @@
-# seng468-day-trading
+# seng468-day-trading - TradeSimple
 
 ## Repo Structure
 
